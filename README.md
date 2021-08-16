@@ -1,6 +1,6 @@
-#Olá! Eu sou a Camila Figueiredo.
+<h3>Olá! Eu sou a Camila Figueiredo</h3>
 
-🧑‍🎓 Atualmente estudando Ciencia da Computação
+ ##
 
  <div><br>
   <a href="https://github.com/CamilaFSilva10">
