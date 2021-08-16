@@ -1,11 +1,11 @@
 #Olá! Eu sou a Camila Figueiredo.
 
-🧑‍🎓 Atualmente estudando Ciencia da Computação.
+🧑‍🎓 Atualmente estudando Ciencia da Computação
 
  <div><br>
   <a href="https://github.com/CamilaFSilva10">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CamilaFSilva10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=B40431"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFSilva10&layout=compact&langs_count=7&theme=dracula&title_color=B40431"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamilaFSilva10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=B40431"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFSilva10&layout=compact&langs_count=7&theme=dracula&title_color=B40431"/>
 </div>
 
  <div style="display: inline_block"><br>
