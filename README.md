@@ -17,6 +17,6 @@
   <a href="https://www.linkedin.com/in/camila-figueiredo-8874201a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" src="http://g.recordit.co/ippO49R3QA.gif" width="10%">
   
-  ![Snake animation](https://github.com/CamilaFSilva10/CamilaFSilva10/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CamilaFSilva10/CamilaFSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
