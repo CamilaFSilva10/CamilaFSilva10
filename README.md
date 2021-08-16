@@ -5,12 +5,12 @@
  <div>
   <a href="https://github.com/CamilaFSilva10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaFSilva10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=B40431"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFSilva10&layout=compact&langs_count=7&theme=dracula&title_color=B40431"/>
+  <img height="180em" whidth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFSilva10&layout=compact&langs_count=7&theme=dracula&title_color=B40431"/>
 </div>
 
  <div style="display: inline_block"><br>
     <img align="right" src="http://g.recordit.co/ippO49R3QA.gif" width="10%">
- </div>
+ </div><br>
  
 ##
   
