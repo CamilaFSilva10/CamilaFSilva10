@@ -1,4 +1,4 @@
-#Olá! Eu sou a Camila Figueiredo
+#Olá! Eu sou a Camila Figueiredo.
 
 🧑‍🎓 Atualmente estudando Ciencia da Computação.
 
